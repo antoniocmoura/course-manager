@@ -10,7 +10,7 @@ This is a course manager application using Angular.
    # Clone the repository
    $ git clone https://github.com/antoniocmoura/course-manager.git
 
-    # Enter the project folder
+   # Enter the project folder
    $ cd course-manager
 ```
 
