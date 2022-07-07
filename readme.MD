@@ -2,7 +2,7 @@
 
 ## 💻 Description
 
-This is a book e-commerce application using Angular.
+This is a course manager application using Angular.
 
 ### 📝 Clone project
 
