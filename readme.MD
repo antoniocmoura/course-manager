@@ -9,12 +9,15 @@ This is a book e-commerce application using Angular.
 ```bash
    # Clone the repository
    $ git clone https://github.com/antoniocmoura/course-manager.git
+
+    # Enter the project folder
+   $ cd course-manager
 ```
 
 ### 📝 Run API 
 
 ```bash
-   # Enter in folder
+   # Enter the API folder 
    $ cd back-end
    
    # Install dependencies
@@ -27,7 +30,7 @@ This is a book e-commerce application using Angular.
 ### 📝 Run Application
 
 ```bash
-   # Enter in folder
+   # Enter the App folder
    $ cd front-end
    
    # Install dependencies
