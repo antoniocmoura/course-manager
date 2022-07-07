@@ -8,18 +8,7 @@ import { CourseService } from "./course.service";
 })
 export class CourseInfoComponent implements OnInit {
 
-    course: Course = {
-        id: 0,
-        code: '',
-        description: '',
-        duration: 0,
-        imageUrl: '',
-        name: '',
-        price: 0,
-        rating: 0,
-        releaseDate: ''
-    };
-
+    course!: Course;
     constructor(private activateRoute: ActivatedRoute, private courseService: CourseService) { }
 
     ngOnInit(): void {
